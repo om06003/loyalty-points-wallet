@@ -97,9 +97,9 @@ This is Post request Where we have to send user Information in body
 
     ```json
     {
-      "username": "Abhishek Zade",
+      "username": "Om Chandankhede",
       "password": "Hacker@55",
-      "email": "zadeabhi8781@gmail.com"
+      "email": "omchandankhede9@gmail.com"
     }
     ```
 
@@ -107,7 +107,7 @@ This is Post request Where we have to send user Information in body
 This is post request where we habe send user cred as body.
 
     ```json
-    {"email":"zadeabhi8781@gmail.com", "password":"Hacker@55"}
+    {"email":"omchandankhede9@gmail.com", "password":"Hacker@55"}
     ```
 
 in responce we will get Bear token which will be required for futher Operations
